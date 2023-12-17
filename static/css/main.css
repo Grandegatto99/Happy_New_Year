@@ -1,0 +1,89 @@
+body {
+    background-color: #1A1C20;
+    font-family: 'Fredoka One';
+}
+
+h1 {
+    font-size: 70px;
+}
+
+/*Navigation Area*/
+
+.nav-link {
+    font-size: 2rem;
+    color: #9aa7b2;
+  }
+  
+  .navbar-brand {
+    font-size: 2rem;
+    color: #fff;
+  }  
+
+
+/* Countdown Section */
+
+.countdown {
+    border-radius: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+.date_today {
+    position: absolute;
+    top: 42%;
+    left: 42%;
+    color: #faf8f8;
+}
+  
+.time_now {
+    position: absolute;
+    top: 48%;
+    left: 48%;
+    color: #faf8f8;
+}
+
+.countdown-text1 {  
+    color: #faf8f8;
+    font-size: 60px;
+    left: 32%;
+    position: absolute;
+    top: 56%;
+  }
+
+  .countdown-text2 {  
+    color: #faf8f8;
+    font-size: 60px;
+    left: 32%;
+    position: absolute;
+    top: 68%;
+  }  
+
+  .countdown-text3 {  
+    color: #faf8f8;
+    font-size: 60px;
+    left: 32%;
+    position: absolute;
+    top: 80%;
+  }
+
+/* Footer */
+  footer {
+    display: flex;
+    justify-content: flex-end;
+    font-size: 15px;
+    color: #ffefef;
+    padding: 1rem;
+    width: 100%;
+    height: auto;
+  
+  }  
+
+/*About Page*/
+.new_year {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
